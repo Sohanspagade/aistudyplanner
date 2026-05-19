@@ -11,7 +11,7 @@ import okhttp3.Response;
 
 public class AIService {
 
-   private static final String apiKey = "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"; // 🔥 PUT REAL KEY
+   private static final String apiKey = ""; // 🔥 PUT REAL KEY
 
     public static String getAIResponse(String message) {
 
